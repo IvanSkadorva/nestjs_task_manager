@@ -1,0 +1,5 @@
+server:
+  origin: http://todoist-by-ivan-skadorva.s3-website.eu-north-1.amazonaws.com
+
+db:
+  synchronize: false
